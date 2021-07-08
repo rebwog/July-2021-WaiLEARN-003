@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For Markdown How To's visit this [GitHub Guide](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
