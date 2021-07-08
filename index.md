@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![WAI Logo](July-2021-WaiLEARN-003/WAI logo only.png)
+![Image](WAI logo only.png)
 
 
 You can use the [editor on GitHub](https://github.com/rebwog/July-2021-WaiLEARN-003/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
