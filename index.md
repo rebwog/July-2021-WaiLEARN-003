@@ -44,4 +44,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <h2><a href="">Contributors</a></h2>
-<p><strong>Contributer = Rebecca Wogan</strong> | <a href="https://www.linkedin.com/in/rebecca-wogan-a29362149/">LinkedIn</a>|<a href="https://github.com/rebwog">GitHub</a><p>
+<p><strong>Rebecca Wogan</strong> | <a href="https://www.linkedin.com/in/rebecca-wogan-a29362149/">LinkedIn</a>|<a href="https://github.com/rebwog">GitHub</a><p>
